@@ -1,2 +1,2 @@
 # atividade avaliativa
-[https://erivelon.github.io/atividade2.0/](https://erivelon.github.io/atividadeavaliativa/)
+ https://erivelon.github.io/atividadeavaliativa/
